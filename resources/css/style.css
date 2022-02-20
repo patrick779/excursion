@@ -28,6 +28,14 @@ p {
     font-size: 16px;
 }
 
+.stock-video {
+    margin-top: 20px;
+}
+
+.cellphone-icon {
+    margin-top: 20px;
+}
+
 #copyright {
     text-align: right;
 }
